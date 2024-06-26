@@ -7,7 +7,8 @@ from selenium.webdriver.common.by import By
 
 
 # Declare browser
-chrome_driver_path = '/home/a0x0bc1/Downloads/chromedriver-linux64/chromedriver'
+chrome_driver_path = '/home/user/Downloads/chromedriver-linux64/chromedriver'
+#change "user" to your pc user
 service = Service(chrome_driver_path)# Create a Service object
 driver = webdriver.Chrome(service=service) # Pass the Service object to the webdriver.Chrome
 
