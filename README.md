@@ -3,17 +3,18 @@ Top 10 gainers on Coinmarketcap (24hr)!
 
 Uses selenium and result is static, for now!
 
-Prerequisite:
+# Prerequisite:
 I assume you know how to install and setup webdriver, either firefox or chrome
 
-Requirements:
+# Requirements:
 webdriver 
 selenium 
 numpy 
 pandas
 time
+datetime
 
-Issues that got fixed:
+# Issues that got fixed:
 -problem: data was generated as a single list
 >soln: reshaped into desired number of row n col
 
@@ -30,4 +31,4 @@ Issues that got fixed:
 
 
 # Updates:
-v1.1 - Added title and timestamp
+v1.1 (Jul 1, 2024) - Added title and timestamp
