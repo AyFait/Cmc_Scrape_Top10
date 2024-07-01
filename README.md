@@ -5,6 +5,7 @@ Uses selenium and result is static, for now!
 
 # Prerequisite:
 I assume you know how to install and setup webdriver, either firefox or chrome. you first need to download webdriver for your os/browser and then place it in a directory
+> see: https://www.selenium.dev/documentation/webdriver/
 
 # Requirements:
 webdriver 
