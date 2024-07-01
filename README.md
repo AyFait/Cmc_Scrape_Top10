@@ -33,3 +33,5 @@ datetime
 
 # Updates:
 v1.1 (Jul 1, 2024) - Added title and timestamp
+
+![Screenshot from 2024-07-01 14-16-48](https://github.com/AyFait/Cmc_Scrape_Top10/assets/50885913/d0afbf7e-2ebc-4a5c-b06c-2dc72889076b)
