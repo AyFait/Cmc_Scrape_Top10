@@ -27,3 +27,7 @@ Issues that got fixed:
 ##calm it's literally just plug-n-play!🤧👻
 ##Just run CmcTop10Scrape.py
 ##Traders Enjoy!
+
+
+# Updates:
+v1.1 - Added title and timestamp
