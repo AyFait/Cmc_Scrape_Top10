@@ -4,7 +4,7 @@ Top 10 gainers on Coinmarketcap (24hr)!
 Uses selenium and result is static, for now!
 
 # Prerequisite:
-I assume you know how to install and setup webdriver, either firefox or chrome. you first need to download webdriver for yor os/browser and then place it in a directory
+I assume you know how to install and setup webdriver, either firefox or chrome. you first need to download webdriver for your os/browser and then place it in a directory
 
 # Requirements:
 webdriver 
