@@ -47,7 +47,12 @@ first10 = np.array(merged[:10])#only need the first 10
 df = pd.DataFrame(first10, columns=['CmcRank', 'Name', 'Symbol', 'Price', '24h%', 'Vol(24h)'])
 #Initially getting errors of ValueError: 5 columns passed, passed data had 125 columns
 #so needed to break the  cols down into 5
+
+timestamp = datetime.utcnow().strftime('%b %d, %Y %H:%M:%S UTC') #added timestamp
+title = f"Top 10 CMC 24h% Increase for {timestamp}" #added title
+print(title)
 print(df)
+
 
 
 driver.quit
