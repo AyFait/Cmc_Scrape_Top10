@@ -3,6 +3,8 @@ Top 10 gainers on Coinmarketcap (24hr)!
 
 Uses selenium and result is static, for now!
 
+Checkout the graphical version [here.]([https://link-url-here.org](https://github.com/AyFait/Cmc_Scrape_Top10_HeatMap_TreeMap)).
+
 # Prerequisite:
 I assume you know how to install and setup webdriver, either firefox or chrome. you first need to download webdriver for your os/browser and then place it in a directory
 > see: https://www.selenium.dev/documentation/webdriver/
